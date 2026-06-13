@@ -8,3 +8,5 @@ read b
 echo "Hello value of a is $a and value of b is $b"
 echo "This is Preetham's script"
 echo "Trying second time"
+echo "This is Tarun's script"
+

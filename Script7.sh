@@ -5,3 +5,5 @@ echo $?
 echo "here if the value is 0 this command is sucessful"
 echo "This is Leos script"
 echo "Preethus favorurites are sophie and leo"
+echo "This is sophies script"
+
